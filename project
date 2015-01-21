@@ -1,0 +1,4 @@
+schematics	stbone_pg1.sch stbone_pg2.sch stbone_pg3.sch
+output-name	stbone
+elements-dir	../pcb-elements/
+skip-m4
